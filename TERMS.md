@@ -1,3 +1,4 @@
+theme: jekyll-theme-minimal
 layout: page
 title: "Project Frenzy Terms of Service"
 permalink: /Terms/
