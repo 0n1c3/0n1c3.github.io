@@ -1,5 +1,5 @@
 layout: page
-title: "Terms of Service"
+title: "Project Frenzy Terms of Service"
 permalink: /Terms/
 
 # Terms of Service for Project Frenzy
