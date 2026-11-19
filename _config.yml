@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
-title: Project Frenzy's Privacy Policy
-description: Privacy Policy for Project Frenzy
+layout: page
+title: "Terms of Service"
+permalink: /Terms/
