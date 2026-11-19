@@ -1,3 +1,7 @@
+layout: page
+title: "Terms of Service"
+permalink: /Terms/
+
 # Terms of Service for Project Frenzy
 
 Effective Date: November 18, 2026
