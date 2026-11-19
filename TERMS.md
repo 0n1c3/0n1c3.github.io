@@ -1,6 +1,6 @@
 layout: page
 title: "Terms of Service"
-permalink: /Terms
+permalink: /Terms/
 
 # Terms of Service for Project Frenzy
 
